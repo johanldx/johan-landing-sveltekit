@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Ecodeli",
+      "date": "NestJS | SvelteKit | Kotlin | Java",
+      "description": "Plateforme B2C/C2C de mise en relation entre particuliers pour des livraisons de colis. Projet annuel 2ESGI.",
+      "color": "bg-[#dc2626]",
+      "size": "col-span-2 row-span-2",
+      "buttons": [
+        { "text": "Frontend", "style": "outline", "href": "https://github.com/johanldx/ecodeli-frontend-sveltekit" },
+        { "text": "Backend", "style": "outline", "href": "https://github.com/johanldx/ecodeli-backend-nestjs" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nexus ESGI",
+      "date": "Astro | React",
+      "description": "Landing page de l'association Nexus ESGI.",
+      "color": "bg-[#8b5cf6]",
+      "size": "col-span-2 row-span-1",
+      "buttons": [
+        { "text": "Frontend", "style": "outline", "href": "https://github.com/johanldx/astro-landing-nexus" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Oculustech",
+      "date": "Astro | React",
+      "description": "Site vitrine pour un installateur d'alarmes.",
+      "color": "bg-[#3b82f6]",
+      "size": "col-span-3 row-span-1",
+      "buttons": [
+        { "text": "Explorer", "style": "primary", "href": "https://oculustech.fr" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mujika",
+      "date": "SvelteKit | Deezer API",
+      "description": "Téléchargez des pochettes d'albums en haute qualité gratuitement",
+      "color": "bg-[#06b6d4]",
+      "size": "col-span-1 row-span-1",
+      "buttons": [
+        { "text": "Essayer", "style": "primary", "href": "/projects/mujika" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Theed",
+      "date": "Synology DiskStation® DS923+",
+      "description": "Mise en place de services et une infrastructure sur NAS Synology.",
+      "color": "bg-[#ea580c]",
+      "size": "col-span-1 row-span-2",
+      "buttons": [
+        { "text": "Explorer", "style": "primary", "href": "https://theed.fr" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Quickbee",
+      "date": "PHP natif",
+      "description": "SaaS de gestion de facturation. Projet annuel 1ESGI.",
+      "color": "bg-[#db2777]",
+      "size": "col-span-1 row-span-1",
+      "buttons": [
+        { "text": "Monolith", "style": "outline", "href": "https://github.com/johanldx/Quickbee" }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,47 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Chargé de Développement de Solutions Applicatives ou Logicielles",
+      "subtitle": "ESGI",
+      "startYear": 2023,
+      "endYear": 2025,
+      "ongoing": true,
+      "description": "Formation en Ingénierie du Web.",
+      "color": "#10b981",
+      "tags": ["Etudes supérieures"]
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Developer and Automation",
+      "subtitle": "Jaiio",
+      "startYear": 2023,
+      "endYear": 2025,
+      "ongoing": true,
+      "description": "Développement d'applications web modernes avec React, Node.js et bases de données",
+      "color": "#3b82f6",
+      "tags": ["Alternance"]
+    },
+    {
+      "id": 3,
+      "title": "Président",
+      "subtitle": "Association Nexus ESGI",
+      "startYear": 2024,
+      "endYear": 2025,
+      "description": "Gestion et développement de l'association étudiante",
+      "color": "#8b5cf6",
+      "tags": ["Associatif"]
+    },
+    {
+      "id": 4,
+      "title": "Développeur Full Stack",
+      "subtitle": "Theed",
+      "startYear": 2023,
+      "endYear": 2025,
+      "ongoing": true,
+      "description": "Mise en place de services sur NAS Synology",
+      "color": "#06b6d4",
+      "tags": ["Freelance"]
+    }
+  ]
+} 

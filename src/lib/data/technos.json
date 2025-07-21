@@ -1,0 +1,10 @@
+[
+  { "label": "NestJS", "bgColor": "#ea2845", "textColor": "#fff" },
+  { "label": "SvelteJS", "bgColor": "#ff3e00", "textColor": "#fff" },
+  { "label": "Make.com", "bgColor": "#5c2d91", "textColor": "#fff" },
+  { "label": "Airtable", "bgColor": "#fcb400", "textColor": "#18181b" },
+  { "label": "AWS", "bgColor": "#FF9C08", "textColor": "#18181b" },
+  { "label": "Shopify", "bgColor": "#96bf48", "textColor": "#18181b" },
+  { "label": "n8n", "bgColor": "#EA4B71", "textColor": "#fff" },
+  { "label": "Metabase", "bgColor": "#509EE3", "textColor": "#18181b" }
+] 
