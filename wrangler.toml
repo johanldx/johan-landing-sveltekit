@@ -1,0 +1,11 @@
+name = "johan-theed"
+compatibility_date = "2025-07-25"
+
+[build]
+  command = "npm run build"
+  directory = ".svelte-kit/output"
+  main = "src/index.ts"
+
+[env.production]
+  workers_dev = true
+  route = "https://johan.theed.fr/*"
