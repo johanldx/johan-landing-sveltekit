@@ -3,8 +3,7 @@ compatibility_date = "2025-07-25"
 
 [build]
   command = "npm run build"
-  directory = ".sveltkit/cloudflare"
-  main = "src/index.ts"
+  directory = ".svelte-kit/output"
 
 [env.production]
   workers_dev = true
