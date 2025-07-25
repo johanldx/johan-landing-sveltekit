@@ -38,12 +38,12 @@
         <section class="mb-12">
             <h2 class="text-2xl font-semibold mb-6">Hébergement du site</h2>
             <p class="text-gray-300 leading-relaxed mb-4">
-                Ce site est hébergé sur un serveur NAS Synology personnel.
+            Ce site est hébergé par Cloudflare.
             </p>
             <p class="text-gray-300 leading-relaxed mb-4">
-                <strong>Hébergeur :</strong> NAS Synology personnel<br>
-                <strong>Adresse :</strong> Antony 92160, France<br>
-                <strong>Site web :</strong> <a href="https://theed.fr" class="text-blue-400 hover:text-blue-300 underline" target="_blank" rel="noopener noreferrer">theed.fr</a>
+            <strong>Hébergeur :</strong> Cloudflare, Inc.<br>
+            <strong>Adresse :</strong> 101 Townsend St, San Francisco, CA 94107, États-Unis<br>
+            <strong>Site web :</strong> <a href="https://www.cloudflare.com" class="text-blue-400 hover:text-blue-300 underline" target="_blank" rel="noopener noreferrer">cloudflare.com</a>
             </p>
         </section>
 
