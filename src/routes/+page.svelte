@@ -288,7 +288,7 @@
             on:submit={handleSubmit}
         >
             <input type="hidden" name="_captcha" value="false">
-            <input type="hidden" name="_next" value="/form/confirmation">
+            <input type="hidden" name="_next" value="https://johan.theed.fr/form/confirmation">
             <input type="hidden" name="_subject" value="Nouveau message de contact">
             <input type="text" name="_honey" style="display:none">
             <div>
